@@ -1,4 +1,4 @@
-package com.bahricanakkoyun.mainpackage;
+package com.bahricanakkoyun.abstractclassexample;
 
 class PNB extends Bank {
   @Override

@@ -1,4 +1,4 @@
-package com.bahricanakkoyun.mainpackage;
+package com.bahricanakkoyun.abstractclassexample;
 
 public class Main {
   public static void main(String[] args) {
