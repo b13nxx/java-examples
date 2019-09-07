@@ -7,6 +7,6 @@ public class Main {
     tom.setCollege("KITE");
     // tom.college = "AKG"; // compile error
 
-    System.out.println(tom.getCollege());
+    System.out.println(tom.getCollege()); // KITE
   }
 }
