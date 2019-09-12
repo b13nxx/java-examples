@@ -1,7 +1,6 @@
 package com.bahricanakkoyun.mainpackage;
 
 public class Main {
-
   public static void main(String[] args) {
     String stringNumber = "45";
 
